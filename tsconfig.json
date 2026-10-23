@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "src/components/common/Sidebar.tsx", "src/components/common/DynamicRendring.tsx"  ],
   "exclude": ["node_modules"]
 }
